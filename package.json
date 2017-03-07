@@ -1,0 +1,34 @@
+{
+  "name": "mytest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Pasiechnyk/text.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pasiechnyk/text/issues"
+  },
+  "homepage": "https://github.com/Pasiechnyk/text#readme",
+  "dependencies": {
+    "cssmin": "^0.4.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-stylus": "^2.6.0",
+    "stylus": "^0.54.5",
+    "watch": "^1.0.2"
+  },
+  "devDependencies": {
+    "gulp-minify": "0.0.15",
+    "gulp-uglify": "^2.0.1",
+    "gulp-watch": "^4.3.11"
+  }
+}
